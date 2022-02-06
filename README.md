@@ -12,4 +12,4 @@ Required User Stories
 ✅ User can view the movie posters in each row.
 
 
-<img src = 'https://submissions.us-east-1.linodeobjects.com/ios_university/aFHWcOqd.gif'>
+<img src = 'http://g.recordit.co/4Bjg6uMw93.gif'>
